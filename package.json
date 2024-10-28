@@ -1,0 +1,11 @@
+{
+  "name": "node-sqs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JNickBaughan/node-sqs.git",
+  "author": "J Nick Baughan <JNickBaughan@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.1691.0"
+  }
+}
